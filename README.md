@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=AI+%26+Data+Science+Student;AI+Engineer+%7C+Robotics+Developer;Python+%26+AI+Instructor;Judge+at+RoboJourney+Egypt"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=AI+%26+Data+Science+Engineer;AI+Engineer+%7C+Robotics+Developer;Python+%26+AI+Instructor;Judge+at+RoboJourney+Egypt"
     alt="Animated introduction"
   />
 </p>
