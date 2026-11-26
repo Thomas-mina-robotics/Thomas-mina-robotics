@@ -25,22 +25,39 @@ Artificial Intelligence and Robotics Engineer
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,pytorch,postgres,linux,java,cpp,react,fastapi,bash,vscode,pycharm&amp;perline=6"
-    alt="Python, PyTorch, PostgreSQL, Linux, Java, C++, React, FastAPI, Bash, VS Code, and PyCharm"
+    src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,nodejs,java,docker,postgres,git,linux&amp;perline=6"
+    width="420"
+    alt="Python, PyTorch, TensorFlow, Scikit-learn, FastAPI, Node.js, Java, Docker, PostgreSQL, Git, and Linux"
   />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+    width="68"
+    height="68"
+    alt="NumPy"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+    width="68"
+    height="68"
+    alt="Pandas"
+  />
+  <img
+    src="https://cdn.simpleicons.org/huggingface/FFD21E"
+    width="68"
+    height="68"
+    alt="Hugging Face"
+  />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Vision-0969DA?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-0969DA?style=for-the-badge" alt="AI and LLMs" />
-  <img src="https://img.shields.io/badge/Robotics-7D3C98?style=for-the-badge" alt="Robotics" />
-  <img src="https://img.shields.io/badge/AI%20Agents-008080?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Web%20Development-EA580C?style=for-the-badge" alt="Web Development" />
+  <img src="https://img.shields.io/badge/LLMs-6F42C1?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Speech%20AI-008080?style=for-the-badge" alt="Speech AI" />
+  <img src="https://img.shields.io/badge/Text--to--Speech-EA580C?style=for-the-badge" alt="Text-to-Speech" />
+  <img src="https://img.shields.io/badge/Speech--to--Text-2DA44E?style=for-the-badge" alt="Speech-to-Text" />
 </p>
 
 ## Selected Projects
