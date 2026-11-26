@@ -25,12 +25,18 @@ Artificial Intelligence and Robotics Engineer
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,cpp,react,postgres,fastapi,bash,vscode,pycharm&amp;perline=8"
-    alt="Python, C++, React, PostgreSQL, FastAPI, Bash, VS Code, and PyCharm"
+    src="https://skillicons.dev/icons?i=py,pytorch,postgres,linux,java,cpp,react,fastapi,bash,vscode,pycharm&amp;perline=6"
+    alt="Python, PyTorch, PostgreSQL, Linux, Java, C++, React, FastAPI, Bash, VS Code, and PyCharm"
   />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-0969DA?style=for-the-badge" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/AI%20%26%20LLMs-0969DA?style=for-the-badge" alt="AI and LLMs" />
   <img src="https://img.shields.io/badge/Robotics-7D3C98?style=for-the-badge" alt="Robotics" />
   <img src="https://img.shields.io/badge/AI%20Agents-008080?style=for-the-badge" alt="AI Agents" />
